@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/sasac/education/model/BoardDAO.java=UTF-8
+encoding//src/main/java/com/sasac/education/model/BoardDAO_Mybatis.java=UTF-8
+encoding//src/main/java/com/sasac/education/model/BoardService.java=UTF-8
+encoding//src/main/java/com/sasac/education/model/LoginDAO.java=UTF-8
+encoding//src/main/java/com/sasac/education/model/LoginService.java=UTF-8
+encoding//src/main/java/kr/co/sasac/vo/LoginVO.java=UTF-8
