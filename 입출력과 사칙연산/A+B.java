@@ -7,7 +7,6 @@ class Main {
     Scanner sc = new Scanner(System.in);
     A =sc.nextInt();
     B =sc.nextInt();
-    int sum = A+B;
-    System.out.println(sum);    
+    System.out.println(A+B);    
   } 
 }
